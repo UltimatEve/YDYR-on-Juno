@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "bbox": [
+    0.0,
+    0.0,
+    -1.0,
+    -1.0
+  ],
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "P_DpStu_25_34": 0,
+        "LGA_MAIN11": "10050"
+      },
+      "id": "b23b_aust_lga.10050"
+    }
+  ]
+}
